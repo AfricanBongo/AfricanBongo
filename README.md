@@ -1,11 +1,9 @@
 # Hey there 😁👋 
 ## I'm **Donell** - a.k.a. **AfricanBongo** 🦍
 
-<br/>
-
 ### **Who am I?**:
 
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/android.svg"/> &nbsp; Android Developer
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/android.svg"/> Android Developer
 - 🖌️ &nbsp; UI/UX Designer
 - ‎‍💼 &nbsp; Founder ([BitPirates](bitpirates) & [Nustree](nustree))
 
