@@ -3,9 +3,9 @@
 
 ### Who am I?:
 
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/android.svg"/> Android Developer
-- 🖌️ &nbsp; UI/UX Designer
-- ‎‍💼 &nbsp; Founder ([BitPirates] & [Nustree])
+- 👨🏾‍💻&nbsp; Android Developer
+- 🖌️&nbsp; UI/UX Designer
+- 💼&nbsp; Founder ([BitPirates] & [Nustree])
 
 ### What am I up to?
 
