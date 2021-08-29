@@ -7,8 +7,6 @@
 - 🖌️ &nbsp; UI/UX Designer
 - ‎‍💼 &nbsp; Founder ([BitPirates](bitpirates) & [Nustree](nustree))
 
-<br/>
-
 ### What am I up to?
 
 - 🗄️ I just started an organization to help out my fellow university students -> [Nustree](nustree)
