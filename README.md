@@ -5,7 +5,7 @@
 
 - 👨🏾‍💻&nbsp; Android Developer
 - 🖌️&nbsp; UI/UX Designer
-- 💼&nbsp; Founder ([BitPirates] & [Nustree])
+- 💼&nbsp; Founder ([AxeHeap] & [Nustree])
 
 ### What am I up to?
 
@@ -15,5 +15,5 @@
 
 
 <!-- Variables definition -->
-[BitPirates]: https://github.com/BitPirates
+[AxeHeap]: https://axeheap.com
 [Nustree]: https://github.com/Nustree
