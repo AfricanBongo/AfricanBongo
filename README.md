@@ -1,19 +1,114 @@
-# Hey there 😁👋 
-## I'm **Donell** - a.k.a. **AfricanBongo** 🦍
+<!-- =========================
+     Animated Header
+========================= -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Donell%20Mtabvuri&fontAlign=50&fontAlignY=35&desc=CTO%20(Chief%20Tinkering%20Officer)%20%E2%80%A2%20App%20Dev%20%E2%80%A2%20UX%20%E2%80%A2%20AI%20Builder&descAlign=50&descAlignY=55&animation=twinkling"
+    alt="Donell Mtabvuri Header"
+  />
+</p>
 
-### Who am I?:
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=18&pause=900&center=true&vCenter=true&width=800&lines=Building+delightful+products+with+design%2C+mobile%2C+and+AI.;Flutter+%E2%80%A2+SwiftUI+%E2%80%A2+Kotlin+%E2%80%A2+React+%E2%80%A2+Speech+AI.;Shipping+Worlds+of+Hello+across+iOS+%26+Android."
+    alt="Typing animation"
+  />
+</p>
 
-- 👨🏾‍💻&nbsp; Android Developer
-- 🖌️&nbsp; UI/UX Designer
-- 💼&nbsp; Founder ([AxeHeap] & [Nustree])
+<p align="center">
+  <a href="https://donell.dev"><img src="https://img.shields.io/badge/Website-donell.dev-black?style=for-the-badge&logo=framer" /></a>
+  <a href="https://donl.me/instagram"><img src="https://img.shields.io/badge/Instagram-donel.dev-f56040?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://donl.me/linkedin"><img src="https://img.shields.io/badge/LinkedIn-Donell%20Mtabvuri-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/CoreFutures"><img src="https://img.shields.io/badge/Org-Core%20Futures-black?style=for-the-badge&logo=github" /></a>
+</p>
 
-### What am I up to?
+---
 
-- 🗄️ I just started an organization to help out my fellow university students -> [Nustree]
-- 👨🏾‍💻 Working on a new exciting tech product (it's hush hush 🤫)
-- 👯 I'm willing to collaborate with other African developers to empower our community.
+<br/>
 
+## 🧠 Who Am I?
 
-<!-- Variables definition -->
-[AxeHeap]: https://axeheap.com
-[Nustree]: https://github.com/Nustree
+I’m **Donell Mtabvuri** — a software developer and product designer building **mobile apps, web platforms, and AI-powered products**.
+
+I specialize in:
+- 🎨 Human-centered UX & product design  
+- 📱 High-performance mobile apps  
+- 🤖 AI (LLMs, Speech AI, Agents)  
+- 🚀 Shipping real-world products in healthcare & education
+
+<br/>
+
+---
+
+<br/>
+
+## 🏢 Organizations
+
+### 🌍 Core Futures Innovations  
+**CTO – Chief Tinkering Officer** 🛠️  
+Leading product architecture, mobile engineering, and AI strategy.
+
+🔗 https://github.com/CoreFutures
+
+<br/>
+
+---
+
+<br/>
+
+## 🧱 Tech Stack
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,framer" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java" />
+</p>
+
+### 🌐 Web & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### 🤖 AI & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 What I’m Working On
+
+### 🌈 Worlds of Hello
+
+- 📱 **Worlds of Hello – SLP (iOS)**  
+  🔗 https://wohello.com/slp-ios
+
+- 📱 **Worlds of Hello – SLP (Android)**  
+  🔗 https://wohello.com/slp-android
+
+- 👨‍👩‍👧 **Worlds of Hello – Family (iOS)**  
+  🔗 https://wohello.com/family-ios
+
+- 👨‍👩‍👧 **Worlds of Hello – Family (Android)**  
+  🔗 https://wohello.com/family-android
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AfricanBongo&theme=tokyonight&hide_border=true" />
+</p>
