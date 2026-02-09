@@ -3,7 +3,7 @@
 ========================= -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Donell%20Mtabvuri&fontAlign=50&fontAlignY=35&desc=CTO%20(Chief%20Tinkering%20Officer)%20%E2%80%A2%20App%20Dev%20%E2%80%A2%20UX%20%E2%80%A2%20AI%20Builder&descAlign=50&descAlignY=55&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Donell%20Mtabvuri&fontAlign=50&fontAlignY=35&desc=Chief%20Technology%20Overlord%20@%20Worlds%20of%20Hello&descAlign=50&descAlignY=55"
     alt="Donell Mtabvuri Header"
   />
 </p>
@@ -23,13 +23,11 @@
   <a href="https://github.com/CoreFutures"><img src="https://img.shields.io/badge/Org-Core%20Futures-black?style=for-the-badge&logo=github" /></a>
 </p>
 
----
-
 <br/>
 
 ## 🧠 Who Am I?
 
-I’m **Donell Mtabvuri** — a software developer and product designer building **mobile apps, web platforms, and AI-powered products**.
+I’m **Donell Mtabvuri** a software developer and product designer building **mobile apps, web platforms, and AI-powered products**.
 
 I specialize in:
 - 🎨 Human-centered UX & product design  
@@ -37,23 +35,6 @@ I specialize in:
 - 🤖 AI (LLMs, Speech AI, Agents)  
 - 🚀 Shipping real-world products in healthcare & education
 
-<br/>
-
----
-
-<br/>
-
-## 🏢 Organizations
-
-### 🌍 Core Futures Innovations  
-**CTO – Chief Tinkering Officer** 🛠️  
-Leading product architecture, mobile engineering, and AI strategy.
-
-🔗 https://github.com/CoreFutures
-
-<br/>
-
----
 
 <br/>
 
@@ -61,12 +42,12 @@ Leading product architecture, mobile engineering, and AI strategy.
 
 ### 🎨 Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,framer" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" />
 </p>
 
 ### 🌐 Web & Frontend
@@ -74,14 +55,11 @@ Leading product architecture, mobile engineering, and AI strategy.
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 </p>
 
-### 🤖 AI & Cloud
+### ☁️ Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,supabase,openai" />
 </p>
 
-<br/>
-
----
 
 <br/>
 
@@ -102,8 +80,6 @@ Leading product architecture, mobile engineering, and AI strategy.
   🔗 https://wohello.com/family-android
 
 <br/>
-
----
 
 <br/>
 
